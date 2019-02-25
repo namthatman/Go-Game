@@ -1,0 +1,9 @@
+﻿  gogame.cpp
+gogame.cpp(90): warning C4309: 'argument': truncation of constant value
+gogame.cpp(304): warning C4309: 'argument': truncation of constant value
+gogame.cpp(320): warning C4309: 'argument': truncation of constant value
+gogame.cpp(336): warning C4309: 'argument': truncation of constant value
+gogame.cpp(349): warning C4309: 'argument': truncation of constant value
+gogame.cpp(505): warning C4309: 'argument': truncation of constant value
+gogame.cpp(859): warning C4390: ';': empty controlled statement found; is this the intent?
+  Gogame.vcxproj -> N:\Work\Own\Gogame\Debug\Gogame.exe
